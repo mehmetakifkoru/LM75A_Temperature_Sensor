@@ -1,0 +1,5 @@
+../Core/Src/main.c:57:7:LM75AReadTemperature	48	static
+../Core/Src/main.c:70:6:SendTemperatureOverUsb	72	static
+../Core/Src/main.c:87:5:main	16	static
+../Core/Src/main.c:137:6:SystemClock_Config	88	static
+../Core/Src/main.c:187:6:Error_Handler	4	static,ignoring_inline_asm

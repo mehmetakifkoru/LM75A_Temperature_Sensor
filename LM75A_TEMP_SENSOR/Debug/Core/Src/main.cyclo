@@ -1,0 +1,5 @@
+../Core/Src/main.c:57:7:LM75AReadTemperature	1
+../Core/Src/main.c:70:6:SendTemperatureOverUsb	1
+../Core/Src/main.c:87:5:main	1
+../Core/Src/main.c:137:6:SystemClock_Config	4
+../Core/Src/main.c:187:6:Error_Handler	1
